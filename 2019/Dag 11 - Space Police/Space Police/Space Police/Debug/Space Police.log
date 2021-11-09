@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\Admin\Documents\Advent of Code\Dag 11 - Space Police\Space Police\Space Police\Source.cpp(155,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 11 - Space Police\Space Police\Space Police\Source.cpp(352,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 11 - Space Police\Space Police\Space Police\Source.cpp(395,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 11 - Space Police\Space Police\Space Police\Source.cpp(404,44): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 11 - Space Police\Space Police\Space Police\Source.cpp(492,33): warning C4244: 'initializing': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 11 - Space Police\Space Police\Space Police\Source.cpp(513,33): warning C4244: 'initializing': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 11 - Space Police\Space Police\Space Police\Source.cpp(541,26): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 11 - Space Police\Space Police\Space Police\Source.cpp(543,26): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 11 - Space Police\Space Police\Space Police\Source.cpp(559,9): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 11 - Space Police\Space Police\Space Police\Source.cpp(565,9): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 11 - Space Police\Space Police\Space Police\Source.cpp(584,33): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+  Space Police.vcxproj -> C:\Users\Admin\Documents\Advent of Code\Dag 11 - Space Police\Space Police\Debug\Space Police.exe

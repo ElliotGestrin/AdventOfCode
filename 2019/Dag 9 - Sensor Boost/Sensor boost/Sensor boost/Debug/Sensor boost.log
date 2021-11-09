@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Admin\Documents\Advent of Code\Dag 9 - Sensor Boost\Sensor boost\Sensor boost\Source.cpp(66,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 9 - Sensor Boost\Sensor boost\Sensor boost\Source.cpp(115,44): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 9 - Sensor Boost\Sensor boost\Sensor boost\Source.cpp(203,33): warning C4244: 'initializing': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 9 - Sensor Boost\Sensor boost\Sensor boost\Source.cpp(224,33): warning C4244: 'initializing': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 9 - Sensor Boost\Sensor boost\Sensor boost\Source.cpp(259,9): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 9 - Sensor Boost\Sensor boost\Sensor boost\Source.cpp(265,9): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 9 - Sensor Boost\Sensor boost\Sensor boost\Source.cpp(284,33): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+  Sensor boost.vcxproj -> C:\Users\Admin\Documents\Advent of Code\Dag 9 - Sensor Boost\Sensor boost\Debug\Sensor boost.exe

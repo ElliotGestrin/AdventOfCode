@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Admin\Documents\Advent of Code\Dag 16 - Flawed Frequency Transmission\Flawed Frequency Transmission\Flawed Frequency Transmission\Source.cpp(52,48): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 16 - Flawed Frequency Transmission\Flawed Frequency Transmission\Flawed Frequency Transmission\Source.cpp(55,25): warning C4018: '<': signed/unsigned mismatch
+  Flawed Frequency Transmission.vcxproj -> C:\Users\Admin\Documents\Advent of Code\Dag 16 - Flawed Frequency Transmission\Flawed Frequency Transmission\Debug\Flawed Frequency Transmission.exe

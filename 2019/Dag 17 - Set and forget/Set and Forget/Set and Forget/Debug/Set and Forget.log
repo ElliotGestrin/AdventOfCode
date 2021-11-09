@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Admin\Documents\Advent of Code\Dag 17 - Set and forget\Set and Forget\Set and Forget\Source.cpp(273,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 17 - Set and forget\Set and Forget\Set and Forget\Source.cpp(326,44): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 17 - Set and forget\Set and Forget\Set and Forget\Source.cpp(414,33): warning C4244: 'initializing': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 17 - Set and forget\Set and Forget\Set and Forget\Source.cpp(435,33): warning C4244: 'initializing': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 17 - Set and forget\Set and Forget\Set and Forget\Source.cpp(465,27): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 17 - Set and forget\Set and Forget\Set and Forget\Source.cpp(478,9): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 17 - Set and forget\Set and Forget\Set and Forget\Source.cpp(484,9): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 17 - Set and forget\Set and Forget\Set and Forget\Source.cpp(503,33): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+  Set and Forget.vcxproj -> C:\Users\Admin\Documents\Advent of Code\Dag 17 - Set and forget\Set and Forget\Debug\Set and Forget.exe

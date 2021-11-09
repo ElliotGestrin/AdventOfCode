@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Admin\Documents\Advent of Code\Dag 7 - Amplification Circuit\Amplification Circuit\Amplification Circuit\Source.cpp(25,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 7 - Amplification Circuit\Amplification Circuit\Amplification Circuit\Source.cpp(230,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 7 - Amplification Circuit\Amplification Circuit\Amplification Circuit\Source.cpp(231,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 7 - Amplification Circuit\Amplification Circuit\Amplification Circuit\Source.cpp(256,50): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 7 - Amplification Circuit\Amplification Circuit\Amplification Circuit\Source.cpp(165): warning C4715: 'IntcodeComputer': not all control paths return a value
+  Amplification Circuit.vcxproj -> C:\Users\Admin\Documents\Advent of Code\Dag 7 - Amplification Circuit\Amplification Circuit\Debug\Amplification Circuit.exe

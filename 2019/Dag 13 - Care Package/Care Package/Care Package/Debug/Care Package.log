@@ -1,0 +1,27 @@
+﻿  Source.cpp
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(41,5): error C2039: 'output1': is not a member of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(18): message : see declaration of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(41,6): error C2672: 'isnan': no matching overloaded function found
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(94,18): error C2039: 'längd': is not a member of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(18): message : see declaration of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(97,37): error C2039: 'längd': is not a member of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(18): message : see declaration of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(251,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(294,32): error C2039: 'längd': is not a member of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(18): message : see declaration of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(303,44): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(391,33): warning C4244: 'initializing': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(412,33): warning C4244: 'initializing': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(439,7): error C2039: 'output1': is not a member of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(18): message : see declaration of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(439,8): error C2672: 'isnan': no matching overloaded function found
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(440,24): error C2039: 'output1': is not a member of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(18): message : see declaration of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(441,12): error C2039: 'output1': is not a member of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(18): message : see declaration of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(441,13): error C2672: 'isnan': no matching overloaded function found
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(442,24): error C2039: 'output1': is not a member of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(18): message : see declaration of 'state'
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(458,9): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(464,9): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 13 - Care Package\Care Package\Care Package\Source.cpp(483,33): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data

@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Admin\Documents\Advent of Code\Dag 4 - Secure Container\Secure Container\Secure Container\Source.cpp(54,46): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 4 - Secure Container\Secure Container\Secure Container\Source.cpp(56,66): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 4 - Secure Container\Secure Container\Secure Container\Source.cpp(73,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 4 - Secure Container\Secure Container\Secure Container\Source.cpp(74,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Advent of Code\Dag 4 - Secure Container\Secure Container\Secure Container\Source.cpp(91,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Secure Container.vcxproj -> C:\Users\Admin\Documents\Advent of Code\Dag 4 - Secure Container\Secure Container\Debug\Secure Container.exe
